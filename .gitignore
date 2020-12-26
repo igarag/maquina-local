@@ -27,7 +27,6 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
-/_site/
 
 
 # Created by https://www.gitignore.io/api/python,visualstudio,jupyternotebooks
