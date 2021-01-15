@@ -3,32 +3,32 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/cover/peloto_texto.png
+  overlay_image: /assets/images/cover/temporal_cover.jpg
   actions:
-    #- label: "<i class='fas fa-download'></i> Install now"
-    #  url: "/installation/"
+    - label: "<i class='fas fa-share'></i> ¡Entra!"
+      url: "/installation/"
 excerpt: 
-  Write your doc title here
+   Bienvenido al blog de acceso libre donde podrás plasmar tus conocimientos.
 feature_row:
   - image_path: /assets/images/cover/logbook.jpg
-    alt: "Logbook"
-    title: "Logbook"
+    alt: "Ver Temas"
+    title: "Ver Temas"
     excerpt: "Goals, progress, problems and solutions achieved during development"
     url: "/logbook/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
   - image_path: /assets/images/cover/install.png
-    alt: "Install"
-    title: "Install"
+    alt: "Escribir"
+    title: "Escribir"
     excerpt: "Use of the software. Instructions for replicating project content."
     url: "/install/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
   - image_path: /assets/images/cover/about.jpg
-    alt: "About"
-    title: "About"
+    alt: "Sobre Nosotros"
+    title: "Sobre Nosotros"
     excerpt: "More information about the project. References used, guides, articles, etc."
     url: "/about/"
     btn_class: "btn--primary"
